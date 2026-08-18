@@ -1,2 +1,26 @@
 # UOW-CS-learning
-自学期间python的基础练习，包含购物车系统等，之后会持续更新。
+
+
+My self-directed learning journey toward Computer Science
+and Artificial Intelligence.
+
+## Current Learning
+
+- Python—— ing
+- C- ing
+//- Data Structures
+//- Computer Systems
+- Mathematics
+
+## Projects
+
+//- Student Management System
+//- Data Analysis
+- AI Application-ing
+
+## Learning Notes
+
+- Python
+- C
+- CSAPP
+- Mathematics
