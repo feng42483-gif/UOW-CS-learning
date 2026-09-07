@@ -1,4 +1,4 @@
-# Movie Top 300 Data Analysis
+# Movie Top 200 Data Analysis
 
 A Python data analysis and visualization project based on Movie Top 300 data.
 
